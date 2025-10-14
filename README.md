@@ -381,15 +381,7 @@ AnalisisDatos-EventoEvaluativo3/
 ├── evento-evaluativo.ipynb           # Notebook principal con el análisis
 ├── bank.csv                          # Dataset Bank Marketing
 ├── titanic.csv                       # Dataset Titanic
-└── evento_evaluativo_3/             # Directorio de organización
-    ├── bank/                        # Archivos relacionados con Bank Marketing
-    │   └── data/
-    │       ├── clean/               # Datos procesados
-    │       └── raw/                 # Datos originales
-    └── titanic/                     # Archivos relacionados con Titanic
-        └── data/
-            ├── clean/               # Datos procesados
-            └── raw/                 # Datos originales
+
 ```
 
 ---
